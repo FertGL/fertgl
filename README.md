@@ -32,5 +32,5 @@
   />
 </picture>
 
-[![VK](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://https://vk.com/l1ant)  
+[![VK](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/l1ant)  
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-%232E87FB.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Shootparis)  
