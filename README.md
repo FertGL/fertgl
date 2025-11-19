@@ -13,7 +13,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-FFFFFF?style=for-the-badge&logo=Docker&logoColor=000000)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-FFFFFF?style=for-the-badge&logo=Apache%20Maven&logoColor=000000)
 ![Postman](https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=postman&logoColor=000000)
-
+![Kafka](https://img.shields.io/badge/Kafka-FFFFFF?style=for-the-badge&logo=kafka&logoColor=000000)
 
 
  
