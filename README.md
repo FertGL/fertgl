@@ -1,8 +1,3 @@
-# Hi there 🗻
-
-## My name is Gleb Fert
-### 23 y.o.
-## Java developer
 
 ### Tools
 ![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=000000)
